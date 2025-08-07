@@ -1,5 +1,5 @@
 
-## main layout
+## Main layout ##
 
 resources/
 └── views/
